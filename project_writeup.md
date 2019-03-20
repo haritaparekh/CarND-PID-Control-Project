@@ -34,7 +34,7 @@ Tuning of the PID coefficients was done manually. Following the flow of the less
 Following GIF shows snippet from actual test run in the simulator:
 
 ##### Output for  P I D (0.2, 0.0003, 3)
-![alt text](output_videos/pid_output_02_00003_3.gif)
+![alt text](output_videos/pid_02_0003_3.gif)
 
 
 Complete output video can be found here: [output_video.mp4](output_videos/pid_output.mp4)
